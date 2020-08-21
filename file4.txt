@@ -1,3 +1,0 @@
-this is my new file and fires line
-add new line to test head reset command.
-adding new line after unstaged. 
