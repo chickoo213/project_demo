@@ -7,3 +7,5 @@ adding the 2nd line in the file for testing stash
 >>>>>>> Stashed changes
 
 adding a fresh line 4 in dev1 branch
+
+adding new line to local (not syncing with online repo ) to test pull conflicts
