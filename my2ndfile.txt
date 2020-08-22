@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 This is my 1st line of 2nd fil
+This is my 1st line of 2nd file
 adding line 2 in onlocal dev1
 
