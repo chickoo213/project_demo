@@ -1,3 +1,7 @@
 Adding a 1st line in the file for stash
+<<<<<<< Updated upstream
 
 adding 3rd line in this file for testing stats apply
+=======
+adding the 2nd line in the file for testing stash
+>>>>>>> Stashed changes
