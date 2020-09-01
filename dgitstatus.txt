@@ -1,0 +1,20 @@
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   gitupdate.sh
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	"d\357\200\272gitstatus.txt"
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   "d\357\200\272gitstatus.txt"
+	new file:   gitupdate.sh
+	modified:   mkdir.sh
+

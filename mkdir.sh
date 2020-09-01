@@ -1,1 +1,1 @@
-mkdir /temp/suku_1
+mkdir --p /temp/suku_2
